@@ -1,0 +1,37 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+html,head{
+    height:100%;
+    width:100%;
+}
+
+/* body{
+    background-image: url(https://cdn.pixabay.com/photo/2025/09/18/07/06/winding-path-9840681_1280.jpg);
+    background-size: cover;
+    
+} */
+#ok{
+    border: 3px solid;
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    margin:10px;
+    padding:10px;
+    font-size: small;
+    
+}
+a:link{
+    color:beige;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color:aquamarine;
+}
+a:active{
+    color:blue;
+}

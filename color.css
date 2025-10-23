@@ -1,0 +1,30 @@
+*{
+    margin:0%;
+    padding:0%; 
+    box-sizing:border-box;
+}
+html,body{
+     height:100%;
+     width:100%;
+}
+body{
+    border: 1px black;
+    background-color: beige;
+    background:linear-gradient(grey,yellow);
+    background-repeat :   no-repeat;
+    background-attachment:fixed;
+}
+
+h1{
+    font-family :'Times New Roman', Times, serif;
+    color:black;
+    font-style:italic;
+    font-size: larger;
+    border-style: dashed;
+} 
+p{
+    border-style: outset;
+    border-radius: 4%;
+    border-color: blue;
+   
+}
